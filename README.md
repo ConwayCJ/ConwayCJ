@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chris/Christopher/Cj
-- 👀 I’m interested in working in a group to produce C-tier idle games :)
-- 🌱 I’m currently learning Front-End Software Development
-- 💞️ I’m looking to collaborate on C-tier idle games :p
+- 👀 I’m interested in a front-end web development career track
+- 🌱 I’m currently learning JavaScript, HTML5, CSS, React, TypeScript
 - 📫 How to reach me: conwaycj@plu.edu or my LinkedIN profile: https://www.linkedin.com/in/conwaycj/
 
 <!---

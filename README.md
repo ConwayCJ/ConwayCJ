@@ -1,19 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Conway
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Christopher Conway
 ==========================================================================================================================================
 
-<a href="https://www.linkedin.com/in/conwaycj/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 
-
-
-
-Curriculum Developer & Front-End Software Developer
+Full-Stack Software Developer
 ---------------------------------------------------
 
 I'm a software developer with a extensive background in education, mentorship, and music. This gives me a keen ability to recognize patterns, explain and understand difficult concepts, as well as having a critical eye for improvement.
 
-* 🌍  I'm based in Washington
 * ✉️  You can contact me at [christopherjconway07@gmail.com](mailto:christopherjconway07@gmail.com)
-* 🧠  I'm learning backend technologies
+* 💬  Discord: shyguycj
+* 👨🏻‍🤝‍👨🏻  Open to new opportunities and collaborations
 
 ### Skills
 
@@ -39,3 +35,7 @@ I'm a software developer with a extensive background in education, mentorship, a
 ### Badges
 
 <a href="https://github.com/ConwayCJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConwayCJ&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="conwaycj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/conwaycj?trk=profile-badge">Christopher Conway</a></div>
+              
+              

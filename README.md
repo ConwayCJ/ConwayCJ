@@ -30,12 +30,5 @@ I'm a software developer with a extensive background in education, mentorship, a
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ConwayCJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/conwaycj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/ConwayCJ" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConwayCJ&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="conwaycj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/conwaycj?trk=profile-badge">Christopher Conway</a></div>
-              
+<p align="left"> <a href="https://www.github.com/ConwayCJ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/conwaycj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>            
               
